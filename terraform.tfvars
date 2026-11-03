@@ -1,4 +1,4 @@
-file1_name    = "file_one.txt"
-file1_content = "Это начальное содержимое первого файла."
-file2_name    = "file_two.txt"
-file2_content = "Это начальное содержимое второго файла."
+file1_name    = "updated_file_one.txt"
+file1_content = "Новое обновленное содержимое первого файла."
+file2_name    = "updated_file_two.txt"
+file2_content = "Новое обновленное содержимое второго файла."
